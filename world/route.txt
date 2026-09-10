@@ -1,0 +1,4 @@
+* https://www.w3.org/TR/rdf12-primer/
+* https://www.w3.org/TR/shacl/
+
+* https://github.com/apache/jena/tree/main/jena-fuseki2
