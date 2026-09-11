@@ -2,3 +2,5 @@
 * https://www.w3.org/TR/shacl/
 
 * https://github.com/apache/jena/tree/main/jena-fuseki2
+
+https://web.stanford.edu/class/archive/cs/cs109/cs109.1234/lectures/
